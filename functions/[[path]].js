@@ -45,7 +45,7 @@ export async function onRequest(context) {
 <meta property="og:site_name" content="OnlyFans">
 <meta property="og:description" content="Discover exclusive content and connect with your favorite creators.">
 <meta property="og:image" content="https://static.android.com.pl/uploads/2021/08/OnlyFans.jpg">
-<meta property="og:url" content="${url.href}">
+<meta property="og:url" content="https://onlyfans.com">
 <meta property="og:type" content="website">
 
 <meta name="twitter:card" content="summary_large_image">
